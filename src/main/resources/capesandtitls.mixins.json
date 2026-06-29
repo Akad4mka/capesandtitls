@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.arm.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinPlayerSkin",
+    "MixinAbstractClientPlayer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

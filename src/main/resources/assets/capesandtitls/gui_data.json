@@ -1,0 +1,11 @@
+{
+  "capes": [
+    { "id": "none", "name": "Без плаща", "texture": "" },
+    { "id": "cape1", "name": "Официальный плащ (Cape 1)", "texture": "capesandtitls:textures/capes/cape1.png" },
+    { "id": "cape2", "name": "Кастомный плащ #2 (Cape 2)", "texture": "capesandtitls:textures/capes/cape2.png" }
+  ],
+  "titles": [
+    { "id": "newbie", "text": "&#F45454Н&#D95664о&#BF5775в&#A45985и&#895B95ч&#6F5CA6о&#545EB6к", "color": "#F45454", "bold": true, "bgStart": "40FF5555", "bgEnd": "20FF5555" },
+    { "id": "warrior", "text": "ВОИН", "color": "#FFAA00", "bold": true, "bgStart": "40FF5500", "bgEnd": "20FFAA00" }
+  ]
+}
