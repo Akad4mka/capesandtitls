@@ -1,13 +1,4 @@
 {
-  "itemGroup.capesandtitls": "Example Mod Tab",
-  "block.capesandtitls.example_block": "Example Block",
-  "item.capesandtitls.example_item": "Example Item",
-
-  "capesandtitls.configuration.title": "CapesAndTitul Configs",
-  "capesandtitls.configuration.section.capesandtitls.common.toml": "CapesAndTitul Configs",
-  "capesandtitls.configuration.section.capesandtitls.common.toml.title": "CapesAndTitul Configs",
-  "capesandtitls.configuration.items": "Item List",
-  "capesandtitls.configuration.logDirtBlock": "Log Dirt Block",
-  "capesandtitls.configuration.magicNumberIntroduction": "Magic Number Text",
-  "capesandtitls.configuration.magicNumber": "Magic Number"
+  "key.categories.capesandtitls.main": "Capes and Titles",
+  "key.capesandtitls.open_menu": "Open Capes & Titles Menu"
 }
